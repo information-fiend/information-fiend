@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
 ## Who?
 a student who likes to create and study. i enjoy cheesecake and dominican food. that's pretty much it
 <br>__before you continue:__
@@ -15,6 +19,3 @@ a student who likes to create and study. i enjoy cheesecake and dominican food. 
 - sprigboard
 - learn Python and Micropython
 
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
