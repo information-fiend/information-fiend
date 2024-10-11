@@ -14,7 +14,7 @@ a student who likes to create and study. i enjoy cheesecake and Dominican food. 
 - website about constellations
 
 ### 🔮 Things I'm Scheming
-- three key macropad (conejita)
+- three key macropad (rabbitpad)
 - a USB hub
 - sprigboard
 - learn Python and Micropython
