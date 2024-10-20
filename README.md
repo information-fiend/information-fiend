@@ -10,7 +10,7 @@ a student who likes to create and study. i enjoy cheesecake and Dominican food. 
 - you'll see me use the Catppuccin theme an unhealthy amount of times
 - i laugh out loud at my jokes, even the ones i make in my head
 
-### 🌌 Stuff I've Built
+### 🎆 Stuff I've Built
 - website about constellations
 
 ### 🔮 Things I'm Scheming
