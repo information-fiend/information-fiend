@@ -13,6 +13,8 @@ a student who likes to create and study. i enjoy cheesecake and Dominican food. 
 - website about constellations
 - three key macropad
 - website where you read poems
+- buzzfeed style quiz
+- rocket booster catching simulation
 
 ### 🔮 Things I'm Scheming
 - a USB hub
